@@ -1,0 +1,15 @@
+D:\Study\IDEA projects\WebDB\src\main\java\web\DbInitListener.java
+D:\Study\IDEA projects\WebDB\src\main\java\model\Positions.java
+D:\Study\IDEA projects\WebDB\src\main\java\dao\DAO.java
+D:\Study\IDEA projects\WebDB\src\main\java\web\PositionServlet.java
+D:\Study\IDEA projects\WebDB\src\main\java\model\Seller.java
+D:\Study\IDEA projects\WebDB\src\main\java\dao\AbstractDAO.java
+D:\Study\IDEA projects\WebDB\src\main\java\dao\PositionsDAO.java
+D:\Study\IDEA projects\WebDB\src\main\java\model\Book.java
+D:\Study\IDEA projects\WebDB\src\main\java\web\BookServlet.java
+D:\Study\IDEA projects\WebDB\src\main\java\dao\BookDAO.java
+D:\Study\IDEA projects\WebDB\src\main\java\model\Identifiable.java
+D:\Study\IDEA projects\WebDB\src\main\java\dao\OrdersDAO.java
+D:\Study\IDEA projects\WebDB\src\main\java\model\Orders.java
+D:\Study\IDEA projects\WebDB\src\main\java\dao\SellerDAO.java
+D:\Study\IDEA projects\WebDB\src\main\java\web\SellerServlet.java

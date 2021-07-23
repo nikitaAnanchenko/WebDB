@@ -1,0 +1,15 @@
+dao\AbstractDAO.class
+web\SellerServlet.class
+dao\BookDAO.class
+dao\DAO.class
+model\Orders.class
+dao\OrdersDAO.class
+dao\SellerDAO.class
+model\Identifiable.class
+model\Positions.class
+dao\PositionsDAO.class
+web\BookServlet.class
+model\Book.class
+model\Seller.class
+web\DbInitListener.class
+web\PositionServlet.class
